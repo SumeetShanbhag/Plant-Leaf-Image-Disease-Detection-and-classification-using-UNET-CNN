@@ -63,7 +63,10 @@ architecture utilized in this work can be seen in the image below.
 ![CNN Architecture](https://github.com/SumeetShanbhag/Plant-Leaf-Image-Disease-Detection-and-classification-using-UNET-CNN/blob/main/images/OUR_CNNarch.png)
 
 # Results
+
 ## Image Segmentation 
 ![Image 1](https://github.com/SumeetShanbhag/Plant-Leaf-Image-Disease-Detection-and-classification-using-UNET-CNN/blob/main/images/Conventional%20U-Net%20Image%20Segmentation%20Binary%20Cross.png)
 ![Image 2](https://github.com/SumeetShanbhag/Plant-Leaf-Image-Disease-Detection-and-classification-using-UNET-CNN/blob/main/images/U-Net%20with%20Mobilenetv2%20Backbone%20Image%20Segmenta-.png)
 
+## CNN Classification 
+![CNN 1](https://github.com/SumeetShanbhag/Plant-Leaf-Image-Disease-Detection-and-classification-using-UNET-CNN/blob/main/images/U-Net%20with%20Mobilenetv2%20Backbone%20Image%20Segmenta-.png)
