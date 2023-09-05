@@ -47,6 +47,8 @@ scheme showed an efficient performance of this strategy on
 the tomato healthy leaves images. Consequently, the obtained tomato healthy binary images are used as the ground
 truth for training the UNET (Ronneberger et al., 2015) image segmentation strategy.
 
+![Cv images](https://github.com/SumeetShanbhag/Plant-Leaf-Image-Disease-Detection-and-classification-using-UNET-CNN/blob/main/images/OpenCV.png)
+
 ##  U-NET Image Segmentation
 The U-net is an advanced deep learning architecture designed for image segmentation, focusing on biomedical image analysis (Ronneberger et al., 2015). Its name is derived
 from its U-shaped network architecture, distinguishing it
