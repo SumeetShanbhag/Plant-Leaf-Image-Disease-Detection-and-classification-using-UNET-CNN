@@ -5,7 +5,8 @@ background using a modified Unet architecture,which is a popular deep-learning m
 then preprocessed and fed into a CNN architecture for the actual classification. The CNN architecture consists of multiple convolutional layers, 
 followed by pooling and fully connected layers, which enable the model to learn the complex features necessary for accurate classification. 
 To evaluate the proposed approach, experiments were conducted on a publicly available Plant village dataset. The results show that
-the proposed approach achieves high accuracy in classifying different plant species. The dataset used for the project can be downloaded from [here](https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset/download?datasetVersionNumber=2)
+the proposed approach achieves high accuracy in classifying different plant species. The dataset used for the project can be downloaded 
+from [here](https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset/download?datasetVersionNumber=2)
 
 The percentage of crop yield lost to plant diseases each year
 varies depending on the crop, the region, and the specific
@@ -60,3 +61,9 @@ of channels of each image, OpenCV is newly used to obtain grayscale images for f
 architecture utilized in this work can be seen in the image below.
 
 ![CNN Architecture](https://github.com/SumeetShanbhag/Plant-Leaf-Image-Disease-Detection-and-classification-using-UNET-CNN/blob/main/images/OUR_CNNarch.png)
+
+# Results
+## Image Segmentation 
+![Image 1](https://github.com/SumeetShanbhag/Plant-Leaf-Image-Disease-Detection-and-classification-using-UNET-CNN/blob/main/images/Conventional%20U-Net%20Image%20Segmentation%20Binary%20Cross.png)
+![Image 2](https://github.com/SumeetShanbhag/Plant-Leaf-Image-Disease-Detection-and-classification-using-UNET-CNN/blob/main/images/U-Net%20with%20Mobilenetv2%20Backbone%20Image%20Segmenta-.png)
+
