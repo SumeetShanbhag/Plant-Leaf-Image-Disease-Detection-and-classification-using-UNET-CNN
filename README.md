@@ -58,3 +58,5 @@ This project introduces the conventional U-Net architecture utilized in (Vitali,
 baseline training subset. In addition, to reduce the number
 of channels of each image, OpenCV is newly used to obtain grayscale images for faster training performance. The
 architecture utilized in this work can be seen in the image below.
+
+![CNN Architecture](https://github.com/SumeetShanbhag/Plant-Leaf-Image-Disease-Detection-and-classification-using-UNET-CNN/blob/main/images/OUR_CNNarch.png)
