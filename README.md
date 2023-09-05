@@ -55,4 +55,4 @@ CNN models, U-net employs convolutional layers to upsample or combine feature ma
 This project introduces the conventional U-Net architecture utilized in (Vitali, 2020) using the tomato healthy as a
 baseline training subset. In addition, to reduce the number
 of channels of each image, OpenCV is newly used to obtain grayscale images for faster training performance. The
-architecture utilized in this work follows the same structure
+architecture utilized in this work can be seen in the image below.
