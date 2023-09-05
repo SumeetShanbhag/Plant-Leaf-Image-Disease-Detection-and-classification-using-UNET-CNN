@@ -5,7 +5,8 @@ background using a modified Unet architecture,which is a popular deep-learning m
 then preprocessed and fed into a CNN architecture for the actual classification. The CNN architecture consists of multiple convolutional layers, 
 followed by pooling and fully connected layers, which enable the model to learn the complex features necessary for accurate classification. 
 To evaluate the proposed approach, experiments were conducted on a publicly available Plant village dataset. The results show that
-the proposed approach achieves high accuracy in classifying different plant species.
+the proposed approach achieves high accuracy in classifying different plant species. The dataset used for the project can be downloaded from [here](https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset/download?datasetVersionNumber=2)
+
 
 The percentage of crop yield lost to plant diseases each year
 varies depending on the crop, the region, and the specific
